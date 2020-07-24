@@ -1,0 +1,247 @@
+# depslib dependency file v1.0
+1588744098 source:c:\users\karan\desktop\4sem\csci-191t\game\main.cpp
+	<windows.h>
+	<_glScene.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+
+1587925481 c:\users\karan\desktop\4sem\csci-191t\game\include\_glscene.h
+	<windows.h>
+	<GL/glut.h>
+	<iostream>
+
+1568504080 c:\users\karan\desktop\4sem\csci-191t\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1587925731 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_credits.cpp
+	"_credits.h"
+
+1587925708 c:\users\karan\desktop\4sem\csci-191t\game\include\_credits.h
+	<_textureLoader.h>
+
+1585860564 c:\users\karan\desktop\4sem\csci-191t\game\include\_textureloader.h
+	<SOIL.h>
+	<GL/gl.h>
+	<iostream>
+
+1215483208 c:\users\karan\desktop\4sem\csci-191t\common\include\soil.h
+
+1587925760 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_endpage.cpp
+	"_endPage.h"
+
+1587925755 c:\users\karan\desktop\4sem\csci-191t\game\include\_endpage.h
+	<_textureLoader.h>
+
+1587926077 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_gamemenu.cpp
+	"_gameMenu.h"
+
+1587925905 c:\users\karan\desktop\4sem\csci-191t\game\include\_gamemenu.h
+	<_textureLoader.h>
+
+1588743336 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_glscene.cpp
+	"_glScene.h"
+	<_inputs.h>
+	<_parallax.h>
+	<_level.h>
+	<_player.h>
+	<_landingPage.h>
+	<_intro.h>
+	<_gameMenu.h>
+	<_helpPage.h>
+	<_pause.h>
+	<_credits.h>
+	<_endPage.h>
+	<_sounds.h>
+
+1588217177 c:\users\karan\desktop\4sem\csci-191t\game\include\_inputs.h
+	<windows.h>
+	<_parallax.h>
+	<_level.h>
+	<_player.h>
+	<_landingPage.h>
+	<_intro.h>
+	<_gameMenu.h>
+	<_helpPage.h>
+	<_pause.h>
+	<_credits.h>
+	<_endPage.h>
+
+1587925585 c:\users\karan\desktop\4sem\csci-191t\game\include\_parallax.h
+	<iostream>
+	<string>
+	<GL/gl.h>
+	<windows.h>
+	<SOIL.h>
+	<_textureLoader.h>
+
+1588745040 c:\users\karan\desktop\4sem\csci-191t\game\include\_level.h
+	<iostream>
+	<sstream>
+	<string>
+	<time.h>
+	<GL/gl.h>
+	<windows.h>
+	<GL/glut.h>
+	<SOIL.h>
+	<_textureLoader.h>
+	<_sounds.h>
+
+1588745287 c:\users\karan\desktop\4sem\csci-191t\game\include\_sounds.h
+	<SNDS/irrKlang.h>
+	<stdlib.h>
+	<iostream>
+
+1398487410 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\irrklang.h
+	"ik_irrKlangTypes.h"
+	"ik_vec3d.h"
+	"ik_IRefCounted.h"
+	"ik_IVirtualRefCounted.h"
+	"ik_ESoundOutputDrivers.h"
+	"ik_ESoundEngineOptions.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+	"ik_ISoundEngine.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_IAudioStream.h"
+	"ik_IAudioStreamLoader.h"
+	"ik_ISoundEffectControl.h"
+	"ik_ISoundStopEventReceiver.h"
+	"ik_IFileFactory.h"
+	"ik_IFileReader.h"
+	"ik_ISoundDeviceList.h"
+	"ik_IAudioRecorder.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394095454 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_irrklangtypes.h
+	<wchar.h>
+
+1399012338 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_vec3d.h
+	<math.h>
+	"ik_irrKlangTypes.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_irefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_ivirtualrefcounted.h
+	"ik_irrKlangTypes.h"
+
+1394085300 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_esoundoutputdrivers.h
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_esoundengineoptions.h
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_estreammodes.h
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_saudiostreamformat.h
+	"ik_IRefCounted.h"
+
+1394092864 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_isoundengine.h
+	"ik_IRefCounted.h"
+	"ik_vec3d.h"
+	"ik_ISoundSource.h"
+	"ik_ISound.h"
+	"ik_EStreamModes.h"
+	"ik_IFileFactory.h"
+	"ik_ISoundMixedOutputReceiver.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_isoundsource.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+	"ik_EStreamModes.h"
+	"ik_SAudioStreamFormat.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_isound.h
+	"ik_IVirtualRefCounted.h"
+	"ik_ISoundEffectControl.h"
+	"ik_vec3d.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_isoundeffectcontrol.h
+	"ik_IVirtualRefCounted.h"
+	"ik_vec3d.h"
+
+1394092852 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_ifilefactory.h
+	"ik_IRefCounted.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_isoundmixedoutputreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_iaudiostream.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_iaudiostreamloader.h
+	"ik_IRefCounted.h"
+	"ik_IFileReader.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_ifilereader.h
+	"ik_IRefCounted.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_isoundstopeventreceiver.h
+	"ik_IRefCounted.h"
+	"ik_SAudioStreamFormat.h"
+
+1394085294 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_isounddevicelist.h
+	"ik_IRefCounted.h"
+
+1394092848 c:\users\karan\desktop\4sem\csci-191t\common\include\snds\ik_iaudiorecorder.h
+	"ik_IRefCounted.h"
+	"ik_ISoundSource.h"
+
+1588744075 c:\users\karan\desktop\4sem\csci-191t\game\include\_player.h
+	<math.h>
+	<time.h>
+	<_level.h>
+	<GL/gl.h>
+	<_textureLoader.h>
+	<_sounds.h>
+
+1587925515 c:\users\karan\desktop\4sem\csci-191t\game\include\_landingpage.h
+	<_textureLoader.h>
+
+1587926187 c:\users\karan\desktop\4sem\csci-191t\game\include\_helppage.h
+	<_textureLoader.h>
+
+1587977165 c:\users\karan\desktop\4sem\csci-191t\game\include\_pause.h
+	<_textureLoader.h>
+
+1587926187 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_helppage.cpp
+	"_helpPage.h"
+
+1588743685 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_inputs.cpp
+	"_inputs.h"
+	<windows.h>
+	<math.h>
+
+1587925521 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_landingpage.cpp
+	"_landingPage.h"
+
+1588713617 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_level.cpp
+	<math.h>
+	"_level.h"
+
+1587929707 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_parallax.cpp
+	"_parallax.h"
+
+1587977165 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_pause.cpp
+	"_pause.h"
+
+1588744073 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_player.cpp
+	"_player.h"
+
+1587936770 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_sounds.cpp
+	"_sounds.h"
+
+1587929989 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_textureloader.cpp
+	"_textureLoader.h"
+
+1588213493 source:c:\users\karan\desktop\4sem\csci-191t\game\src\_intro.cpp
+	"_intro.h"
+
+1588213527 c:\users\karan\desktop\4sem\csci-191t\game\include\_intro.h
+	<_textureLoader.h>
+

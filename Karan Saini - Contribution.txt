@@ -1,0 +1,23 @@
+Group : Fantastic 4
+
+Member : Karan Saini
+
+Contribution :
+
+Designed all the pages for the game and implemented the navigation from these pages.
+
+Also implemented transition logic of the levels with Nikita Arora (group member).
+
+Designed the following pages:
+
+Landing Page (implemented keyboard/mouse clicks on this page for navigation)
+Introduction Page (implemented keyboard clicks on this page for navigation)
+Game Menu screen (implemented keyboard/mouse clicks on this page for navigation)
+Help page (implemented keyboard clicks on this page for navigation)
+Credits page (implemented keyboard clicks on this page for navigation)
+Pause page (implemented keyboard/mouse clicks on this page for navigation)
+End page (implemented keyboard/mouse clicks on this page for navigation)
+
+For transition of levels used variable 'number'. Initialize number=1 at the beginning for 1st Level.
+
+If items calculated is equal to 80% of the items then level will be completed and number will be incremented by 1 for transitioning to next level.
